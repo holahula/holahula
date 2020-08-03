@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![akira](https://user-images.githubusercontent.com/17057747/89231403-ddc42f80-d5aa-11ea-8be1-3a1e2dc98fd9.gif)
+
 <!--
 **holahula/holahula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
