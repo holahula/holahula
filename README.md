@@ -1,9 +1,9 @@
 <!--![akira](https://user-images.githubusercontent.com/17057747/89231403-ddc42f80-d5aa-11ea-8be1-3a1e2dc98fd9.gif)-->
 
+<!-- Pulled from http://canvas.pantone.com/gallery/89144953/Motion-8-bit-Blade-Runner -->
 ![br_2049](https://user-images.githubusercontent.com/17057747/89315779-dea7a080-d640-11ea-89b6-a9330d423cf1.gif)
 
 :movie_camera: https://letterboxd.com/holahula/
-<!-- Puleld from http://canvas.pantone.com/gallery/89144953/Motion-8-bit-Blade-Runner -->
 
 <!--
 **holahula/holahula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
